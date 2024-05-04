@@ -1,0 +1,3 @@
+C:/Users/Thawan/CLionProjects/soldier-and-bananas-problem/cmake-build-debug/CMakeFiles/soldier_and_bananas_problem.dir
+C:/Users/Thawan/CLionProjects/soldier-and-bananas-problem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Thawan/CLionProjects/soldier-and-bananas-problem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
